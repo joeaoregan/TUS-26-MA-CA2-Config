@@ -1,7 +1,7 @@
 build:
   version: "1.2"
 loans:
-  message: "Welcome to TUS loans related prod APIs"
+  message: "Welcome to THE UPDATED TUS loans related prod APIs"
   contactDetails:
     name: "John Murphy - Loans Owner"
     email: "john@loans.ie"

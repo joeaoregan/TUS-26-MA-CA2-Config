@@ -1,0 +1,15 @@
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to accounts related QA APIs"
+  contactDetails:
+    name: "Jane Bloggs - QA TESTER"
+    email: "jane@tus.ie"
+  onCallSupport:
+    - (090) 555-1234
+    - (090) 523-1345
+info:
+  app:
+    name: "accounts"
+    description: "Bank Accounts QA Application"
+    version: "1.0.3"

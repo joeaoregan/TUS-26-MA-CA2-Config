@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to accounts related prod APIs"
   contactDetails:
     name: "John Bloggs - Prod Support"
-    email: "john@tus.ie"
+    email: "{cipher}e8bd9e9d80f01ed2e68743d7a32dc168a1134c740049e0b6e2fa3913e3c3203c"
   onCallSupport:
     - (086) 555-1234
     - (087) 523-1345

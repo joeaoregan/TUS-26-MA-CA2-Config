@@ -1,7 +1,7 @@
 build:
   version: "3.1"
 inventory:
-  message: "Welcome to TUS inventory related prod APIs"
+  message: "Welcome to THE UPDATED TUS inventory related prod APIs"
   contactDetails:
     name: "John Murphy - Inventory Product Owner"
     email: "john@inventory.ie"

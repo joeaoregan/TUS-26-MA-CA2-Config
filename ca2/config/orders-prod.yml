@@ -1,9 +1,9 @@
 build:
   version: "2.1"
 orders:
-  message: "Welcome to the UPDATED orders related prod APIs"
+  message: "Welcome to the REPORT orders related prod APIs"
   contactDetails:
-    name: "John Bloggs - Prod Support"
+    name: "John Bloggs - Prod REPORT Support"
     # email: "john@orders.ie"
     email: "{cipher}e5fe2eab5c81afc6b60b62e347984a4aeeba9267b257b751e64c416ccbadca3a"
   onCallSupport:

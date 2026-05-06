@@ -1,7 +1,7 @@
 build:
   version: "2.2"
 orders:
-  message: "Welcome to orders related QA APIs"
+  message: "Welcome to orders related QA APIs SCREENCAST STUFF"
   contactDetails:
     name: "Jane Bloggs - QA TESTER"
     email: "jane@orders.ie"
